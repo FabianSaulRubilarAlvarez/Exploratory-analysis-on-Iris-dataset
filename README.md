@@ -1,1 +1,1 @@
-# Iris-Dataset---An-lisis-Exploratorio
+Se presenta un análisis exploratorio del conjunto de datos conocido de Iris. En el cual se harán las operaciones básicas sobre este conjunto de datos para comprender y analizar de manera correcta las variables.
